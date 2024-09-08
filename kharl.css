@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coffee Shop Menu</title>
+    <link rel="stylesheet" href="styles.html">
+</head>
+<body>
+    
+    <center>
+
+    <header>
+        <img src="logo.jpg" alt="" width="180" height="180"><br>
+
+           <h1>Thanos Burger</h1>
+    </header>
+    <main>
+        <section class="menu-category">
+            <h2>Coffee</h2>
+            <ul>
+                <li>
+                    <span class="item-name">Thanos Chiki Burger</span>
+                    <span class="item-price">₱80.00</span>
+                </li>
+                <li>
+                    <span class="item-name">Thanos Finger Fries </span>
+                    <span class="item-price">₱70.00</span>
+                </li>
+                <li>
+                    <span class="item-name">Thanos Sliders</span>
+                    <span class="item-price">₱22.00 per piece</span>
+                </li>
+                <li>
+                    <span class="item-name">Thanos Beefy Burger</span>
+                    <span class="item-price">₱80.00</span>
+                </li>
+                <li>
+                    <span class="item-name">Thanos Vegie Burger</span>
+                    <span class="item-price">₱75.00</span>
+                </li>
+                <li>
+                    <span class="item-name">Thanos Violet Shake</span>
+                    <span class="item-price">₱65.00</span>
+                </li>
+            </ul>
+        </section>
+        
+            <p><a href="form.html"><h5>VISIT US HERE!</h5></a></p>
+
+        </center>
+        
+    </main>
+</body>
+</html>
+
+
